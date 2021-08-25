@@ -1,2 +1,2 @@
 # karatsuba
-Applying karatsuba method on python for a conference
+Applying karatsuba method on python jupyter notebook for a conference
